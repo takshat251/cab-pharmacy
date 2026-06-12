@@ -1,0 +1,7 @@
+F:\Nagarro Exit PD\.NETMachineTestProj\CAB Pharmacy\bin\Debug\CAB Pharmacy.exe.config
+F:\Nagarro Exit PD\.NETMachineTestProj\CAB Pharmacy\bin\Debug\CAB Pharmacy.exe
+F:\Nagarro Exit PD\.NETMachineTestProj\CAB Pharmacy\bin\Debug\CAB Pharmacy.pdb
+F:\Nagarro Exit PD\.NETMachineTestProj\CAB Pharmacy\obj\Debug\CAB Pharmacy.csprojAssemblyReference.cache
+F:\Nagarro Exit PD\.NETMachineTestProj\CAB Pharmacy\obj\Debug\CAB Pharmacy.csproj.CoreCompileInputs.cache
+F:\Nagarro Exit PD\.NETMachineTestProj\CAB Pharmacy\obj\Debug\CAB Pharmacy.exe
+F:\Nagarro Exit PD\.NETMachineTestProj\CAB Pharmacy\obj\Debug\CAB Pharmacy.pdb
